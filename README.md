@@ -22,9 +22,6 @@ I'm a passionate developer currently improving myself in both **backend** and **
 ---
 
 
-
----
-
 <h2 align="center">🛠️ Languages and Tools</h2>
 
 <p align="center">
