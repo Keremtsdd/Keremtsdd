@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Kerem Taşdemir</h1>
 
-<h3 align="center">💻 Junior Full Stack Developer</h3>
+### 💻 Junior Full Stack Developer  
 
 I'm a passionate developer currently improving myself in both **backend** and **frontend** technologies.  
 - 🔹 Backend: C#, Web API, MSSQL  
@@ -10,7 +10,7 @@ I'm a passionate developer currently improving myself in both **backend** and **
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+### 🚀 About Me 
 
 - 🌱 Actively developing **web** and **mobile** applications.  
 - 🛠️ Experienced in **API integrations**, **database management**, and **user-centered design**.  
@@ -21,16 +21,7 @@ I'm a passionate developer currently improving myself in both **backend** and **
 
 ---
 
-<h2 align="center">🌐 Connect with Me</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kerem-ta%C5%9Fdemir-164337349/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/keremttd/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
-</p>
 
 ---
 
