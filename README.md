@@ -1,4 +1,4 @@
-# Hi, I'm [Adın] 👋
+# Hi, I'm Kerem Taşdemir 👋
 
 ### 🚀 Full Stack Developer
 - 🌱 Specializing in **React, TypeScript, TailwindCSS, C#, .NET 8, MSSQL**
