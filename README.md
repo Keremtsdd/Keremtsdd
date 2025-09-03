@@ -2,23 +2,22 @@
 
 <h3 align="center">💻 Junior Full Stack Developer</h3>
 
-<p align="center">
-  I'm a passionate developer currently improving myself in both <b>backend</b> and <b>frontend</b> technologies.  
-  <br/>
-  🚀 Always eager to learn, build, and grow in the tech industry.
-</p>
+I'm a passionate developer currently improving myself in both **backend** and **frontend** technologies.  
+- 🔹 Backend: C#, Web API, MSSQL  
+- 🔹 Frontend: React, React Native  
+- 🔹 Styling: TailwindCSS, Bootstrap  
+- 🔹 Tools: Postman, Git/GitHub, Visual Studio, VS Code  
 
 ---
 
 <h2 align="center">🚀 About Me</h2>
 
-<p align="center">
-🌱 Actively developing <b>web</b> and <b>mobile</b> applications. <br/>
-🛠️ Experienced in <b>API integrations</b>, <b>database management</b>, and <b>user-centered design</b>. <br/>
-📈 Gained project experience through <b>freelance small & mid-scale projects</b>. <br/>
-🔍 Curious, research-driven, and eager to continuously learn new technologies. <br/>
-🎯 My goal is to keep growing and gain a stronger position in the software industry.  
-</p>
+- 🌱 Actively developing **web** and **mobile** applications.  
+- 🛠️ Experienced in **API integrations**, **database management**, and **user-centered design**.  
+- 📈 Gained project experience through **freelance small & mid-scale projects**.  
+- 🔍 Curious, research-driven, and eager to continuously learn new technologies.  
+- 🎯 My goal is to keep growing and gain a stronger position in the software industry.  
+
 
 ---
 
@@ -49,8 +48,6 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
