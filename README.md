@@ -45,3 +45,12 @@ I'm a passionate developer currently improving myself in both **backend** and **
 ---
 
 <p align="center">⭐️ Thanks for visiting my profile!</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kerem-ta%C5%9Fdemir-164337349/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/keremttd/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
+</p>
