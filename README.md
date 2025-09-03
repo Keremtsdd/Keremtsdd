@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Kerem Taşdemir</h1>
+<h1 align="center">Hi, I'm Kerem Taşdemir</h1>
 
 ### 💻 Junior Full Stack Developer  
 
