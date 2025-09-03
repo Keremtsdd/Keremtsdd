@@ -12,17 +12,17 @@ I'm a passionate developer currently improving myself in both **backend** and **
 
 ### 🚀 About Me 
 
-- 🌱 Actively developing **web** and **mobile** applications.  
-- 🛠️ Experienced in **API integrations**, **database management**, and **user-centered design**.  
-- 📈 Gained project experience through **freelance small & mid-scale projects**.  
-- 🔍 Curious, research-driven, and eager to continuously learn new technologies.  
-- 🎯 My goal is to keep growing and gain a stronger position in the software industry.  
+- 🔹 Actively developing **web** and **mobile** applications.  
+- 🔹 Experienced in **API integrations**, **database management**, and **user-centered design**.  
+- 🔹 Gained project experience through **freelance small & mid-scale projects**.  
+- 🔹 Curious, research-driven, and eager to continuously learn new technologies.  
+- 🔹 My goal is to keep growing and gain a stronger position in the software industry.  
 
 
 ---
 
 
-<h2 align="center">🛠️ Languages and Tools</h2>
+<h2 align="center">Languages and Tools</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
