@@ -3,10 +3,10 @@
 ### 💻 Junior Full Stack Developer  
 
 I'm a passionate developer currently improving myself in both **backend** and **frontend** technologies.  
-- 🔹 Backend: C#, WebAPI, Microsoft SQL Server  
-- 🔹 Frontend: React, React Native, JavaScript, CSS, HTML
-- 🔹 Styling: TailwindCSS, Bootstrap  
-- 🔹 Tools: Postman, Git/GitHub, Visual Studio, VS Code  
+ 🔹 Backend: C#, WebAPI, Microsoft SQL Server  
+ 🔹 Frontend: React, React Native, JavaScript, CSS, HTML
+ 🔹 Styling: TailwindCSS, Bootstrap  
+ 🔹 Tools: Postman, Git/GitHub, Visual Studio, VS Code  
 
 ---
 
