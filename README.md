@@ -49,14 +49,6 @@ I'm a passionate developer currently improving myself in both **backend** and **
 
 ---
 
-<h2 align="center">🏆 LeetCode Stats</h2>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/keremtsdd?theme=tokyonight&font=Baloo%202&ext=contest" alt="LeetCode Stats" />
-</p>
-
----
-
 <p align="center">⭐️ Thanks for visiting my profile!</p>
 
 <p align="center">
