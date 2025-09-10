@@ -44,10 +44,6 @@ I'm a passionate developer currently improving myself in both **backend** and **
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keremtsdd&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keremtsdd&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
