@@ -4,7 +4,7 @@
 
 I'm a passionate developer currently improving myself in both **backend** and **frontend** technologies.  
 - 🔹 Backend: C#, WebAPI, Microsoft SQL Server  
-- 🔹 Frontend: React, React Native, JavaScript, CSS, HTML
+- 🔹 Frontend: React, React Native, Flutter Dart, JavaScript, CSS, HTML
 - 🔹 Styling: TailwindCSS,NativeWind, Bootstrap  
 - 🔹 Tools: Postman, Git/GitHub, Visual Studio, VS Code  
 
